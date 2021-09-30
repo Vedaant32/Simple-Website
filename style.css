@@ -122,3 +122,6 @@ display: flex;
     border-radius: 10px;
  cursor: pointer;
 }
+.btn:hover{
+   background-color: #ff11aa;
+}
