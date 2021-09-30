@@ -31,7 +31,7 @@
 }
 #Navbar{
     position: relative;
-    background-color: black;
+    background-color: grey;
     opacity: 0.4;
     height: 4rem;
 }
@@ -51,7 +51,7 @@ font-size: 1.3rem;
     text-decoration: none;
 }
 #Navbar ul li a:hover{
-    color:black;
+    color:grey;
     background-color: white;
    
 }
@@ -68,13 +68,13 @@ display: flex;
     
     padding: 7px 20px;
     border-radius: 10px;
-    background-color: white;
+    background-color: Red;
     
     
     
 }
 .nav-btn:hover{
-    background-color: lightblue;
+    background-color: darkblue;
 
 }
 #home{
